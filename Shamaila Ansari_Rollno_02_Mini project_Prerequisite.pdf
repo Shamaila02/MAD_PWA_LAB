@@ -1,8 +1,0 @@
-FIREBASE Details: 
-
-Login/Sign up details will be store  in the firebase
-Regestration details like Name, Gender,Address of the users will be Store  in the firebase
-If user change the Account Information like address,name,image etc that will be update in the firebase.
-Profile Image will also be store.
-Categories details will also be store in the firebase
-Place order details like Size,Quantity,price of the product will be store in the firebase.
